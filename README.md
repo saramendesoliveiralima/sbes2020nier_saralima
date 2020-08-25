@@ -1,1 +1,1 @@
-# sbes2020nier_saralima
+Este repositório contém as perguntas e respostas referentes ao Survey realizado com profissionais e estudantes da área de testes de apps para Android. Estes dados foram utilizados para compor o paper submetido ao SBES - Trilha de Ideias Inovadoras e Resultados Emergentes, com o título: "Unveiling practitioners awareness of Android apps regression testing through an expert survey".
